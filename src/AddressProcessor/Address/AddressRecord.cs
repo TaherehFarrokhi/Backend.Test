@@ -1,6 +1,6 @@
 ﻿namespace AddressProcessing.Address
 {
-    class AddressRecord
+    public class AddressRecord
     {
         public string Address { get; set; }
         public string City { get; set; }
